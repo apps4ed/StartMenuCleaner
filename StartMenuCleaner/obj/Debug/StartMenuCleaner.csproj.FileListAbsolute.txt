@@ -1,0 +1,11 @@
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\obj\Debug\StartMenuCleaner.csproj.AssemblyReference.cache
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\obj\Debug\StartMenuCleaner.csproj.SuggestedBindingRedirects.cache
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\obj\Debug\StartMenuCleaner.Form1.resources
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\obj\Debug\StartMenuCleaner.Properties.Resources.resources
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\obj\Debug\StartMenuCleaner.csproj.GenerateResource.cache
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\obj\Debug\StartMenuCleaner.csproj.CoreCompileInputs.cache
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\bin\Debug\StartMenuCleaner.exe.config
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\bin\Debug\StartMenuCleaner.exe
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\bin\Debug\StartMenuCleaner.pdb
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\obj\Debug\StartMenuCleaner.exe
+F:\OneDrive - Aberdare Community School\Programming\StartMenuCleaner\StartMenuCleaner\obj\Debug\StartMenuCleaner.pdb
